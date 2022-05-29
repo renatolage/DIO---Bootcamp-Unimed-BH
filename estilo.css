@@ -1,0 +1,24 @@
+body {
+	background: rgba(88, 88, 88, 0.333);
+	font-family: Verdana;
+	width: 900px;
+	margin: 10px;
+}
+
+.subtitle {
+	color: #0e024b;
+	font-size: 50px;
+	font-style: italic;
+}
+
+.body-image {
+	width: 100%;
+	border: 2px solid #fcfcfc;
+	margin: 10px;
+}
+
+.div-accordion {
+	border: 2px solid #fcfcfc;
+	margin: 10px;
+	width: 100%;
+}
